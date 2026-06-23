@@ -1,0 +1,2 @@
+# Frcature-Dectection-and-Smart-Hospital-Queue-Mangement-System
+Developed an AI-powered healthcare application using Python, Streamlit, and OpenCV to assist in preliminary fracture detection from X-ray images. The system analyzes medical images and provides fracture severity insights, supporting healthcare professionals in faster decision-making and reducing the time required for initial diagnostic assessments
